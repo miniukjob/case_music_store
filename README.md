@@ -43,4 +43,4 @@ Feel free to reach out for questions or collaboration!
 
 ---
 
-*Author: Nikolai Miniuk*
+*Author: Mikalai Miniuk*
